@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.eugene.sumarry</groupId>
+  <artifactId>spring-boot-zookeeper-client-starter</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20200401153230</lastUpdated>
+  </versioning>
+</metadata>

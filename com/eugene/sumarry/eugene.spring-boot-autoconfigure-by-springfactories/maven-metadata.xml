@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.eugene.sumarry</groupId>
+  <artifactId>eugene.spring-boot-autoconfigure-by-springfactories</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200402012735</lastUpdated>
+  </versioning>
+</metadata>
